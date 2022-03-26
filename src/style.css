@@ -48,6 +48,7 @@ body {
 .card-image {
   width: 125px;
   height: 168px;
+
   border-radius: 5px;
 }
 
@@ -105,8 +106,6 @@ body {
 }
 
 .card-bottom-line {
-  /* margin-left: 10%;
-  margin-right: 10%; */
-  max-width: 90%;
-  opacity: 0.1;
+  max-width: 471px;
+  opacity: 0.15;
 }
